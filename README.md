@@ -1,11 +1,10 @@
-# 🧪 Deep Generative Models & AI — Hands-On Workbook
+# 🧪 GENERATIVE AI LAB EXPERIMENTS
 
 > **A comprehensive laboratory course exploring cutting-edge generative AI architectures through practical implementations and interactive experiments**
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.11-red.svg)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.8-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ---
 
@@ -201,84 +200,4 @@ After completing this workbook, you'll be able to:
 
 ---
 
-## 🔗 Additional Resources
-
-### Recommended Papers
-- *"Generative Adversarial Nets"* (Goodfellow et al., 2014)
-- *"Auto-Encoding Variational Bayes"* (Kingma & Welling, 2014)
-- *"Density Estimation Using Real NVP"* (Dinh et al., 2016)
-- *"PixelCNN++: Improving the PixelCNN..."* (Salimans et al., 2017)
-
-### Learning Resources
-- [Fast.ai Deep Learning Course](https://course.fast.ai/)
-- [Stanford CS236: Deep Generative Models](https://deepgenerativemodels.github.io/)
-- [UC Berkeley CS294-158: Deep Learning Representations](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNBPJdt8WLfAH2RR5rluKJ-)
-
----
-
-## 🤝 Contributing
-
-Have improvements? Found bugs? We welcome contributions!
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/improvement`)
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
-
----
-
-## ⚖️ License
-
-This workbook is provided under the **MIT License**. Use freely for educational and research purposes.
-
----
-
-## 🎉 Acknowledgments
-
-This workbook synthesizes knowledge from:
-- Leading deep learning frameworks and libraries
-- Classical and modern statistical theory
-- Cutting-edge machine learning research
-- Community feedback and contributions
-
----
-
-## ❓ FAQ
-
-**Q: How long does it take to complete?**  
-A: 20-30 hours total, depending on depth and experimentation.
-
-**Q: Can I run this without a GPU?**  
-A: Yes! CPU execution works fine (just slower). PyTorch CPU version is installed by default.
-
-**Q: Do I need prior ML experience?**  
-A: Basic Python knowledge helps, but not required. Experiments include all necessary background.
-
-**Q: Can I modify and extend the experiments?**  
-A: Absolutely! That's encouraged. Experiment with hyperparameters, try new architectures, etc.
-
----
-
-## 📧 Support
-
-- **Questions?** — Check the experiment documentation and theory sections
-- **Getting errors?** — Verify Python/library versions and random seeds
-- **Want to extend?** — All experiments are modular and designed for modification
-
----
-
-## 🚀 Next Steps
-
-1. **Read Original Papers** — Deep dive into foundational research
-2. **Join Competitions** — Apply skills to Kaggle and research challenges
-3. **Build Projects** — Create your own generative models
-4. **Contribute** — Enhance popular open-source libraries
-5. **Stay Updated** — Follow ArXiv, conferences, and top researchers
-
----
-
 **Happy Learning! 🧠✨**
-
-*Last Updated: May 3, 2026*  
-*Created for Generative AI & Deep Learning Laboratory*
