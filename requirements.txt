@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+# Generative AI & Deep Learning Workbook
+>>>>>>> 9ddb616 (Update README: improved visuals and layout)
 # Required Python packages and versions
 
 # Numerical & Data Processing

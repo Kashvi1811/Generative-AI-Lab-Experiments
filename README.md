@@ -1,9 +1,20 @@
 # 🧪 GENERATIVE AI LAB EXPERIMENTS
 
 <p align="center">
+<<<<<<< HEAD
   <a href="#"><img src="https://img.shields.io/badge/Python-3.8+-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>
   <a href="#"><img src="https://img.shields.io/badge/PyTorch-2.11-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" /></a>
   <a href="#"><img src="https://img.shields.io/badge/scikit--learn-1.8-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn" /></a>
+=======
+  <img alt="Generative AI Banner" src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1400&q=80" width="100%" />
+</p>
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Python-3.8+-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/PyTorch-2.11-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/scikit--learn-1.8-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="MIT License" /></a>
+>>>>>>> 9ddb616 (Update README: improved visuals and layout)
 </p>
 
 ---
@@ -123,7 +134,52 @@ Objective: Implement masked convolutions and sample pixel-by-pixel.
 ### Experiment 10 — GAN Loss Comparison
 Objective: Compare BCE, WGAN concept, and feature-matching formulations.
 
+<<<<<<< HEAD
 
 **Happy Learning! 🧠✨**
 
 
+=======
+## 🤝 Contributing
+
+Contributions and improvements are welcome. Fork, create a feature branch, and open a pull request.
+
+---
+
+## ⚖️ License
+
+MIT — feel free to use and adapt this material for learning and research.
+
+---
+
+## 🎉 Acknowledgments
+
+Thanks to the open-source ecosystem and authors of foundational papers referenced in the notebook.
+
+---
+
+## ❓ FAQ
+
+- Q: How long does it take? — A: ~20–30 hours depending on exploration depth.
+- Q: GPU required? — A: No; CPU works (GPU speeds training).
+- Q: Prior ML experience? — A: Helpful but not required.
+
+---
+
+## 📧 Support
+
+- Questions: open an issue in this repo
+- Errors: verify Python versions and installed packages
+
+---
+
+## 🚀 Next Steps
+
+1. Read referenced papers for theoretical depth
+2. Run experiments and tweak hyperparameters
+3. Share improvements via PRs
+
+**Happy Learning! 🧠✨**
+
+*Last Updated: May 5, 2026*
+>>>>>>> 9ddb616 (Update README: improved visuals and layout)
