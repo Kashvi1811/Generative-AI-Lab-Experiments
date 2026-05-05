@@ -1,10 +1,6 @@
 # 🧪 GENERATIVE AI LAB EXPERIMENTS
 
 <p align="center">
-  <img alt="Generative AI Banner" src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1400&q=80" width="100%" />
-</p>
-
-<p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Python-3.8+-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>
   <a href="#"><img src="https://img.shields.io/badge/PyTorch-2.11-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" /></a>
   <a href="#"><img src="https://img.shields.io/badge/scikit--learn-1.8-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn" /></a>
